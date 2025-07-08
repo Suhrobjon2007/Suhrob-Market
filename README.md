@@ -1,2 +1,2 @@
 # Suhrob Market
-Demo loyiha
+Simple web app using Node.js and HTML for registration and verification.
